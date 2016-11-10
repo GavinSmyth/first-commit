@@ -1,0 +1,17 @@
+1.)var strength = '50,000 pounds';
+console.log('How much stuff can a variable hold? ', strength);
+
+2.)var strength = '50,000 pounds';
+console.log('How much stuff can a variable hold? ', strength);
+var age = 18;
+console.log(age);
+var hasPet = true;
+console.log(hasPet);
+
+
+3.)var morningAlarm = '6:30AM';
+morningAlarm = '6:00AM';
+console.log('Morning alarm is set to: ', morningAlarm);
+
+4.)var favoriteAnimal = 'dog';
+console.log('My favorite animal:' + favoriteAnimal); 
